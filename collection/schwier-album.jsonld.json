@@ -40,7 +40,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "Photograph album compiled by Hilda Schwier documenting mid-1930s travels with friends through the American West and western Canada, including the Grand Canyon, Southern California, Yosemite, the Pacific Northwest, and Banff National Park.",
+  "schema:description": "Photograph album compiled by Hilda Schwier documenting mid-1930s travels with friends through the American West and western Canada, including the Grand Canyon, Southern California, Yosemite, the Pacific Northwest, and Banff National Park.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c89z9c4q).",
   "schema:identifier": [
     "MC-304",
     "ark:/87293/d35m62g0k"
